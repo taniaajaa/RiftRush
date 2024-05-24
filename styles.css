@@ -1,0 +1,37 @@
+body {
+background-image:url('background3.jpg');
+}
+
+p {
+    font-size: 14pt; 
+}
+
+div class {color:white;}
+.judul-tengah {
+    text-align: center;
+    font-family: Georgia, serif; 
+    background-color: rgba(245, 245, 220); 
+    padding: 20px;
+}
+
+.judul-tengah h1 {
+    font-size: 36px;
+    color: #FFBF00;
+}
+
+.judul-tengah p {
+    font-size: 20px;
+    color: #FF8000;
+}
+
+
+img {
+  width: 700px;
+  height: 800px;
+}
+
+nav ul {list-style-type:none;}
+nav ul li {display:inline;}
+p {text-align: center;}
+ul {list-style-type: none; background: linear-gradient(#503bb0);}
+ul li {display: inline;padding: 170px;color:} {
